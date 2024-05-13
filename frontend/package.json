@@ -24,5 +24,17 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
     "vite": "^5.2.0"
-  }
+  },
+  "description": "food app frontend part",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswajititgithub/Food-App-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biswajititgithub/Food-App-frontend/issues"
+  },
+  "homepage": "https://github.com/biswajititgithub/Food-App-frontend#readme"
 }
